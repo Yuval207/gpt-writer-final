@@ -36,10 +36,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Generate text about anything</h1>
+            <h1>Generate a blog post</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Write a quick sentence or topic to generate text about that</h2>
+            <h2>Write name of the topic to generate blog about it</h2>
           </div>
         </div>
         <div className="prompt-container">
